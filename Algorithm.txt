@@ -1,0 +1,18 @@
+
+Algorithm
+
+1. Start
+2. Print the main menu
+3. Select the option from the main menu.
+4. If select option no:1 – Then display “How many numbers do you want to input?”
+5. Then inputs <= 10,Display “Enter a number”,
+If not input more than 10,“Error! We can't continue our programmed, PLEASE CHECK PROPERLY”
+6. And “Do you want to continue this further?(YES/NO)...”
+7. If you give NO Programmed will stop running
+8. If you give YES, Then you can continue and Display “Indicate your option”,
+9. After you indicate option no: 2,Display the Highest Value and go to step 6
+10. After you indicate option no: 3,Display the Lowest Value, and go to step 6
+11. After you indicate option no: 4,Display the Average Value, and go to step 6
+12. After you indicate option no: 5,Display the Even Numbers, and go to step 6
+13. After you indicate option no: 6, Display the “THANK YOU! & Come Again”
+14. End
